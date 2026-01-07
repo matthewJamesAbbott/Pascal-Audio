@@ -26,7 +26,6 @@ program AudioCompressor;
 
 {
   High-Quality Audio Compressor - Pascal Implementation
-  Single-file, no external libraries, pure DSP from first principles
 }
 
 {$MODE OBJFPC}
